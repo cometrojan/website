@@ -1,5 +1,5 @@
 ---
-title: 런타임 클래스
+title: 런타임 클래스(RuntimeClass)
 content_type: concept
 weight: 20
 ---
@@ -8,7 +8,7 @@ weight: 20
 
 {{< feature-state for_k8s_version="v1.12" state="alpha" >}}
 
-이 페이지는 런타임 클래스(RuntimeClass) 리소스와 런타임 선택 메커니즘에 대해서 설명한다.
+이 페이지는 런타임 클래스 리소스와 런타임 선택 메커니즘에 대해서 설명한다.
 
 런타임클래스는 컨테이너 런타임을 구성을 선택하는 기능이다. 컨테이너 런타임
 구성은 파드의 컨테이너를 실행하는데 사용된다.
